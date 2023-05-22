@@ -106,7 +106,7 @@ Error generating stack: `+i.message+`
     font-family: "Roboto", sans-serif;
     font-weight: bold;
   }
-`;function Xh(){const e=Gh();return Y.jsxs(u1,{onClick:()=>e("/vite-teste/"),children:[Y.jsx("img",{src:s1,alt:"logo wally"}),Y.jsx("p",{children:"ITEGRAFLIX"})]})}const c1=he.main`
+`;function Xh(){const e=Gh();return Y.jsxs(u1,{onClick:()=>e("/estagio-itegra/"),children:[Y.jsx("img",{src:s1,alt:"logo wally"}),Y.jsx("p",{children:"ITEGRAFLIX"})]})}const c1=he.main`
   margin-bottom: 2rem;
 `,f1=he.div`
   display: flex;
