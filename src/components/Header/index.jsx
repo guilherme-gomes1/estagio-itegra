@@ -6,7 +6,7 @@ export function Header() {
   const navigate = useNavigate()
 
   return (
-    <HeaderConatiner onClick={() => navigate("/")}>
+    <HeaderConatiner onClick={() => navigate("/vite-teste/")}>
       <img src={Logo} alt="logo wally" />
       <p>ITEGRAFLIX</p>
     </HeaderConatiner>
