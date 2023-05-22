@@ -5,7 +5,7 @@ import { Details } from "./pages/DetailtsPoster"
 export const Routers = () => {
   const router = createBrowserRouter([
     {
-      path: "/vite-teste/",
+      path: "/estagio-itegra/",
       element: <Home />,
     },
     {
